@@ -13,3 +13,4 @@ This repository keeps track of several useful bioinformatics resources.
 8. Introduction to Linux for bioinformatics: https://wiki.bits.vib.be/index.php/Introduction_to_Linux_for_bioinformatics
 9. Bioinformatics in the terminal-Tips and tricks to make your life easier: https://www.youtube.com/watch?v=m9gJD64Hsc8
 10. Getting started in linux-Bioinformatics: https://omicstutorials.com/getting-started-in-linux-bioinformatics/
+11. Setting Up Your First Bioinformatics Computer: https://www.youtube.com/channel/UCYDIJ7Mlsdmotfd3uM6lh8Q/videos
