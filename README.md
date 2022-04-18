@@ -15,3 +15,4 @@ This repository keeps track of several useful bioinformatics resources.
 10. Getting started in linux-Bioinformatics: https://omicstutorials.com/getting-started-in-linux-bioinformatics/
 11. Setting Up Your First Bioinformatics Computer: https://www.youtube.com/channel/UCYDIJ7Mlsdmotfd3uM6lh8Q/videos
 12. http://omgenomics.com/
+13. Getting started in Bioinformatics-A step-by-step guide: https://medium.com/@rebelCoderBio/getting-started-in-bioinformatics-a-step-by-step-guide-6337843a03b5
