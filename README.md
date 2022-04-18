@@ -10,3 +10,6 @@ This repository keeps track of several useful bioinformatics resources.
 5. TCGA: https://benbermanlab.com/assets/code/Workshop%20-%20TCGA%20data%20analysis.html
 6. Using the GEOquery Package: https://www.bioconductor.org/packages/devel/bioc/vignettes/GEOquery/inst/doc/GEOquery.html#getting-all-series-records-for-a-given-platform
 7. GitHub Bioinfo_Trianing: https://github.com/Bioinformatics-Research-Network/training-requirements
+8. Introduction to Linux for bioinformatics: https://wiki.bits.vib.be/index.php/Introduction_to_Linux_for_bioinformatics
+9. Bioinformatics in the terminal-Tips and tricks to make your life easier: https://www.youtube.com/watch?v=m9gJD64Hsc8
+10. Getting started in linux-Bioinformatics: https://omicstutorials.com/getting-started-in-linux-bioinformatics/
