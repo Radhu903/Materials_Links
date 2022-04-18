@@ -16,3 +16,4 @@ This repository keeps track of several useful bioinformatics resources.
 11. Setting Up Your First Bioinformatics Computer: https://www.youtube.com/channel/UCYDIJ7Mlsdmotfd3uM6lh8Q/videos
 12. http://omgenomics.com/
 13. Getting started in Bioinformatics-A step-by-step guide: https://medium.com/@rebelCoderBio/getting-started-in-bioinformatics-a-step-by-step-guide-6337843a03b5
+14. RNA-seq analysis in R: https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Data_files_and_Resources
