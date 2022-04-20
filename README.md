@@ -19,3 +19,4 @@ This repository keeps track of several useful bioinformatics resources.
 14. RNA-seq analysis in R: https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Data_files_and_Resources
 15. VIB Bioinformatics Core Wiki: https://wiki.bits.vib.be/index.php/Category:Training
 16. https://www.google.com/search?q=how+to+identify+the+head+and+neck++cancer+normal+data+r+scripts&ei=N6VfYsPmKZ6VseMPyNej2AE&ved=0ahUKEwiD3pP2_qH3AhWeSmwGHcjrCBsQ4dUDCA4&uact=5&oq=how+to+identify+the+head+and+neck++cancer+normal+data+r+scripts&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAghEApKBAhBGABKBAhGGABQywJYvxdgjBtoAXABeACAAZkBiAHGDpIBBDAuMTWYAQCgAQHIAQjAAQE&sclient=gws-wiz
+Differential gene expression (DGE) analysis Materials for short, half-day workshops: https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html
