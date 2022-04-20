@@ -20,3 +20,7 @@ This repository keeps track of several useful bioinformatics resources.
 15. VIB Bioinformatics Core Wiki: https://wiki.bits.vib.be/index.php/Category:Training
 16. https://www.google.com/search?q=how+to+identify+the+head+and+neck++cancer+normal+data+r+scripts&ei=N6VfYsPmKZ6VseMPyNej2AE&ved=0ahUKEwiD3pP2_qH3AhWeSmwGHcjrCBsQ4dUDCA4&uact=5&oq=how+to+identify+the+head+and+neck++cancer+normal+data+r+scripts&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAghEApKBAhBGABKBAhGGABQywJYvxdgjBtoAXABeACAAZkBiAHGDpIBBDAuMTWYAQCgAQHIAQjAAQE&sclient=gws-wiz
 Differential gene expression (DGE) analysis Materials for short, half-day workshops: https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html
+https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/
+https://www.melbournebioinformatics.org.au/tutorials/tutorials/rna_seq_dge_in_r/rna_seq_r/
+https://angus.readthedocs.io/en/2019/diff-ex-and-viz.html#why-do-we-need-to-normalize-and-transform-read-counts
+https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
