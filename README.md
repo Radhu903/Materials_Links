@@ -19,8 +19,11 @@ This repository keeps track of several useful bioinformatics resources.
 14. RNA-seq analysis in R: https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Data_files_and_Resources
 15. VIB Bioinformatics Core Wiki: https://wiki.bits.vib.be/index.php/Category:Training
 16. https://www.google.com/search?q=how+to+identify+the+head+and+neck++cancer+normal+data+r+scripts&ei=N6VfYsPmKZ6VseMPyNej2AE&ved=0ahUKEwiD3pP2_qH3AhWeSmwGHcjrCBsQ4dUDCA4&uact=5&oq=how+to+identify+the+head+and+neck++cancer+normal+data+r+scripts&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAghEApKBAhBGABKBAhGGABQywJYvxdgjBtoAXABeACAAZkBiAHGDpIBBDAuMTWYAQCgAQHIAQjAAQE&sclient=gws-wiz
-Differential gene expression (DGE) analysis Materials for short, half-day workshops: https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/lessons/sample_level_QC.html
-https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/
-https://www.melbournebioinformatics.org.au/tutorials/tutorials/rna_seq_dge_in_r/rna_seq_r/
-https://angus.readthedocs.io/en/2019/diff-ex-and-viz.html#why-do-we-need-to-normalize-and-transform-read-counts
-https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
+17. Differential gene expression (DGE) analysis Materials for short, half-day workshops: https://hbctraining.github.io/Training
+18. modules/planning_successful_rnaseq/lessons/sample_level_QC.html
+19. https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/
+20. https://www.melbournebioinformatics.org.au/tutorials/tutorials/rna_seq_dge_in_r/rna_seq_r/
+21. https://angus.readthedocs.io/en/2019/diff-ex-and-viz.html#why-do-we-need-to-normalize-and-transform-read-counts
+22. https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
+23. https://www.bioconductor.org/packages/release/workflows/vignettes/TCGAWorkflow/inst/doc/TCGAWorkflow.html
+24. Bioinformatics Coach: https://www.youtube.com/channel/UCOJM9xzqDc6-43j2x_vXqCQ/playlists
