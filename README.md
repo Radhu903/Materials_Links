@@ -27,3 +27,4 @@ This repository keeps track of several useful bioinformatics resources.
 22. https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
 23. https://www.bioconductor.org/packages/release/workflows/vignettes/TCGAWorkflow/inst/doc/TCGAWorkflow.html
 24. Bioinformatics Coach: https://www.youtube.com/channel/UCOJM9xzqDc6-43j2x_vXqCQ/playlists
+25. Introduction to gene expression microarray analysis in R and Bioconductor: https://gtk-teaching.github.io/Microarrays-R/
