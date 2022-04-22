@@ -28,3 +28,9 @@ This repository keeps track of several useful bioinformatics resources.
 23. https://www.bioconductor.org/packages/release/workflows/vignettes/TCGAWorkflow/inst/doc/TCGAWorkflow.html
 24. Bioinformatics Coach: https://www.youtube.com/channel/UCOJM9xzqDc6-43j2x_vXqCQ/playlists
 25. Introduction to gene expression microarray analysis in R and Bioconductor: https://gtk-teaching.github.io/Microarrays-R/
+26. https://www.bioconductor.org/packages/devel/workflows/vignettes/maEndToEnd/inst/doc/MA-Workflow.html#1_Introduction
+27. https://www.biostars.org/p/53870/
+28. https://www.biostars.org/p/224904/
+29. Network analysis of TCGA and GTEx gene expression datasets for identification of trait-associated biomarkers in human cancer: https://star-protocols.cell.com/protocols/1425
+30. https://www.frontiersin.org/articles/10.3389/fgene.2021.663787/full
+31. https://www.spandidos-publications.com/10.3892/mco.2018.1728
